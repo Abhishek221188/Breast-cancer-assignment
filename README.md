@@ -82,6 +82,3 @@ Streamlit App
 Contributing
 
 Feel free to open issues or submit pull requests if you have suggestions or improvements for the project.
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
